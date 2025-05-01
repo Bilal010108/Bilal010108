@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bilal010108
+- 👋 Hi, I’m @Bilal
 - 👀 I’m interested in write code
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on writing project
