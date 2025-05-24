@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on writing project
 - 📫 How to reach me write in instagram @bilal_mirlanovich
-- 😄I am happy
+- 
 
 
 <!---
