@@ -108,7 +108,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
 </div>
 
 <div>
-  I would be happy to connect and collaborate on new projects!
+  I’m open to connecting and working together on new projects.
 </div>
 
 
