@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&color=FFE15D,FF5733,33FF57&center=true&vCenter=true&width=600&height=100&lines=I+am+Bilal+Attokurov;Backend+Developer;ML+Engineer)](https://github.com/Bilal010108)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&color=FFE15D,FF5733,33FF57&center=true&vCenter=true&width=600&height=100&lines=I+am+Bilal+Attokurov;Backend+Developer;ML+Engineer)
 
 
 
