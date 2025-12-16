@@ -102,7 +102,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
   <a href="https://t.me/bilal_mirlanovich" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
   </a>
-  <a href="https://www.instagram.com/_salahidin1_/" target="_blank">
+  <a href="https://www.instagram.com/bilal_mirlanovich/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="mailto:zulpukarovz555@gmail.com">
