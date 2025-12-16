@@ -1,6 +1,4 @@
-<a href="https://github.com/Bilal010108">
-  <img height="70" src="https://readme-typing-svg.herokuapp.com?lines=I+am+Bilal Attokurov;Backend+Developer;ML+Engineer&duration=3000&speed=20&colors=FFE15D,FF5733,33FF57,3357FF,FF33A6"/>
-</a>
+(https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&color=FFE15D,FF5733,33FF57&center=true&vCenter=true&width=600&height=100&lines=I+am+Bilal+Attokurov;Backend+Developer;ML+Engineer)
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
   I am a Backend Developer and Machine Learning Engineer with a strong passion for building scalable applications and intelligent systems.
