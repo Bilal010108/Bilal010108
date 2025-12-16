@@ -81,3 +81,31 @@ I believe in writing clean, maintainable code and building solutions that bring 
 <p align="center">
   <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bilal010108&theme=react&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" />
 </p>
+
+
+## 📫 Contact Me
+
+<div>
+    <img src="https://www.linkedin.com/in/%D0%B0%D1%82%D1%82%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D0%B2-%D0%B1%D0%B8%D0%BB%D0%B0%D0%BB-7416a3341/" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/SalahidinAI/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-SalahidinAI-black?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://wa.me/+996990333571" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
+  </a>
+  <a href="https://t.me/salah_systems" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram" alt="Telegram">
+  </a>
+  <a href="https://www.instagram.com/_salahidin1_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
+  </a>
+  <a href="mailto:zulpukarovz555@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
+</div>
+
+<div>
+  I would be happy to connect and collaborate on new projects!
+</div>
+
