@@ -96,7 +96,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
   <a href="https://github.com/Bilal010108" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Bilal Attokurov-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="https://wa.me/+996990333571" target="_blank">
+  <a href="https://wa.me/+996700348911" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
   <a href="https://t.me/salah_systems" target="_blank">
