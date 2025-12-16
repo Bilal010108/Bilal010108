@@ -100,7 +100,7 @@ I believe in writing clean, maintainable code and building solutions that bring 
     <img src="https://img.shields.io/badge/WhatsApp-Contact-green?style=for-the-badge&logo=whatsapp" alt="WhatsApp">
   </a>
    </a>
-  <a href="https://www.instagram.com/_salahidin1_/" target="_blank">
+  <a href="https://www.instagram.com/bilal_mirlanovich/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
   </a>
   <a href="https://t.me/bilal_mirlanovich" target="_blank">
