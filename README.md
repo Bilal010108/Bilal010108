@@ -83,10 +83,13 @@ I believe in writing clean, maintainable code and building solutions that bring 
 </p>
 
 
+
+
 ## 📫 Contact Me
 
 <div>
-    <img src="https://www.linkedin.com/in/%D0%B0%D1%82%D1%82%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D0%B2-%D0%B1%D0%B8%D0%BB%D0%B0%D0%BB-7416a3341/" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/%D0%B0%D1%82%D1%82%D0%BE%D0%BA%D1%83%D1%80%D0%BE%D0%B2-%D0%B1%D0%B8%D0%BB%D0%B0%D0%BB-7416a3341/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-профиль-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://github.com/SalahidinAI/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-SalahidinAI-black?style=for-the-badge&logo=github" alt="GitHub">
