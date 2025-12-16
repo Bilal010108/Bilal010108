@@ -10,7 +10,6 @@ I believe in writing clean, maintainable code and building solutions that bring 
 </div>
 
 
-
 ## Skills
 
 <p align="center">
