@@ -1,4 +1,4 @@
-https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&color=FFE15D,FF5733,33FF57&center=true&vCenter=true&width=600&height=100&lines=I+am+Bilal+Attokurov;Backend+Developer;ML+Engineer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&multiline=true&color=FFE15D,FF5733,33FF57&center=true&vCenter=true&width=600&height=100&lines=I+am+Bilal+Attokurov;Backend+Developer;ML+Engineer)](https://github.com/Bilal010108)
 
 <div style="font-size: 2rem; color: #3498db; animation: fadeIn 2s ease-out;">
   I am a Backend Developer and Machine Learning Engineer with a strong passion for building scalable applications and intelligent systems.
