@@ -104,10 +104,8 @@ I believe in writing clean, maintainable code and building solutions that bring 
   </a>
   <a href="https://www.instagram.com/bilal_mirlanovich/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Profile-pink?style=for-the-badge&logo=instagram" alt="Instagram">
-  </a>
-  <a href="attokurovbilal08@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email">
-  </a>
+  [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:attokurovbilal08@gmail.com)
+
 </div>
 
 <div>
