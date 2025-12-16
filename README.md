@@ -1,3 +1,67 @@
+## Skills
+
+<p align="center">
+<table align="center" cellspacing="10" cellpadding="5" style="table-layout: fixed; width: 100%; max-width: 900px; text-align: center;">
+  <tr>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=python" width="43" height="43" alt="Python" /><br>Python
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=django" width="43" height="43" alt="Django" /><br>Django
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="43" height="43" alt="FastAPI" /><br>FastAPI
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="43" height="43" alt="PyTorch" /><br>PyTorch
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=scikitlearn" width="43" height="43" alt="scikit-learn" /><br>scikit-learn
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=opencv" width="43" height="43" alt="OpenCV" /><br>OpenCV
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=postgresql" width="43" height="43" alt="PostgreSQL" /><br>PostgreSQL
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=redis" width="43" height="43" alt="Redis" /><br>Redis
+    </td>
+  </tr>
+  <tr>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="43" height="43" alt="MongoDB" /><br>MongoDB
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="43" height="43" alt="SQLite" /><br>SQLite
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=docker" width="43" height="43" alt="Docker" /><br>Docker
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=nginx" width="43" height="43" alt="Nginx" /><br>Nginx
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=aws" width="43" height="43" alt="AWS" /><br>AWS
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=linux" width="43" height="43" alt="Linux" /><br>Linux
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=git" width="43" height="43" alt="Git" /><br>Git
+    </td>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=github" width="43" height="43" alt="GitHub" /><br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td width="80">
+      <img src="https://skillicons.dev/icons?i=postman" width="43" height="43" alt="Postman" /><br>Postman
+    </td>
+  </tr>
+</table>
+</p>
+
 ## My GitHub Stats
 
 <p align="center">
